@@ -4,12 +4,16 @@ a simple script that checks Dollar General's website to view the number of curre
 Need latest version of python installed, as well as requests
 
 for requests:
+pip install requests
+
+or
+
 https://requests.readthedocs.io/en/latest/
 
-how to use:
-1. run the DGtest.py file
-2. enter store number (for how to find store number see below) e.g. 12344
-3. program will return the current stock information for that specific store
+How to use:
+1. Run the DGtest.py file
+2. Enter store number (for how to find store number see below) e.g. 12344
+3. Program will return the current stock information for that specific store
 
 
 How to find store #
